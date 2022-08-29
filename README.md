@@ -28,4 +28,5 @@ https://www.youtube.com/watch?v=nvPOUdz5PL4
 MIT license 
 
 ## Link
-link to deployed website!
+The link to my deployed website!
+https://adriennecordell.github.io/challenge-01/
